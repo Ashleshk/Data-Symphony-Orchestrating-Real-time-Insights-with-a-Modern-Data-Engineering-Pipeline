@@ -1,4 +1,4 @@
-# Realtime Data Streaming | End-to-End Data Engineering Project
+# Data Symphony: Orchestrating Real-time Insights with a Modern Data Engineering Pipeline
 
 
 ## Introduction
